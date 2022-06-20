@@ -89,6 +89,7 @@ def check_const() -> bool:
 
 
 def get_menu_keyboard(bot_obj, user, menu_type):
+    """Returns the keyboard of the desired menu type."""
     reply_keyboard = None
     if menu_type == 'main':
         if bot_obj.user_is_admin(user):
