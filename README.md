@@ -1,4 +1,4 @@
-# Secound hackathon Yandex workshops. Telegram bot implementation.
+# :suspect:Second hackathon Yandex workshops. Telegram bot implementation.
 🛠 The Telegram bot allows you to connect to standard 1c configurations (UT, ERP, UNF) and receive data on employee stock balances and vacation balances. The bot can also perform several functions for the support team:
 
 - Create a delivery file
